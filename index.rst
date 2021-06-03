@@ -1,3 +1,6 @@
+.. meta::
+    :http-equiv=Refresh: 0; url='https://autofac.readthedocs.io/'
+
 Looking for the Autofac Docs?
 =============================
 
